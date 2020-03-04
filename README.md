@@ -3,6 +3,7 @@
 #### caption-clown-repo, 2/20/20 date
 ​
 #### By Zayd, Parth, Warren, Nadia, Edward
+
 ​
 ## Description
 
@@ -35,3 +36,12 @@
 * HTML, CSS
 
 * Deployed on Heroku and using JawsDB
+
+
+
+
+
+
+# Direct link to app 
+
+​https://polar-harbor-60783.herokuapp.com/
